@@ -1,2 +1,2 @@
 # ML
-Sample Linear regression model using one variable
+Sample machine learning models
